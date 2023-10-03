@@ -1,6 +1,5 @@
 /*
  * File: 102-python.c
- * Auth: Humphrey Ikhalea
  */
 
 #include "Python.h"
