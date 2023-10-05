@@ -8,7 +8,6 @@ a and b must be first casted to integers if they are float
 Returns an integer: the addition of a and b
 You are not allowed to import any module
 
-
 1. Divide a matrix
 
 Write a function that divides all elements of a matrix.
@@ -22,6 +21,7 @@ All elements of the matrix should be divided by div, rounded to 2 decimal places
 Returns a new matrix
 You are not allowed to import any module
 
+
 2. Say my name
 
 Write a function that prints My name is <first name> <last name>
@@ -29,6 +29,7 @@ Write a function that prints My name is <first name> <last name>
 Prototype: def say_my_name(first_name, last_name=""):
 first_name and last_name must be strings otherwise, raise a TypeError exception with the message first_name must be a string or last_name must be a string
 You are not allowed to import any module
+
 
 3. Print square
 
@@ -49,6 +50,7 @@ Prototype: def text_indentation(text):
 text must be a string, otherwise raise a TypeError exception with the message text must be a string
 There should be no space at the beginning or at the end of each printed line
 You are not allowed to import any module
+
 
 5. Max integer - Unittest
 
@@ -82,7 +84,6 @@ if one element of those list of lists is not an integer or a float: raise a Type
 if m_a or m_b is not a rectangle (all ‘rows’ should be of the same size): raise a TypeError exception with the message each row of m_a must be of the same size or each row of m_b must be of the same size
 If m_a and m_b can’t be multiplied: raise a ValueError exception with the message m_a and m_b can't be multiplied
 
-You are not allowed to import any module
 
 7. Lazy matrix multiplication
 
@@ -106,5 +107,3 @@ About:
 Python version: 3.4
 You are allowed to use the C standard library
 Your shared library will be compiled with this command line: gcc -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 102-python.c
-
-
