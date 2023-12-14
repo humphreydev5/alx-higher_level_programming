@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 const dict = require('./101-data').dict;
 
 const totalist = Object.entries(dict);
@@ -15,4 +16,3 @@ for (const j in valsUniq) {
   newDict[valsUniq[j]] = list;
 }
 console.log(newDict);
-
