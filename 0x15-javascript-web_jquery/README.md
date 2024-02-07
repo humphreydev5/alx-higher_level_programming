@@ -2,13 +2,13 @@
 ![1f1ihd](https://github.com/humphreydev5/alx-higher_level_programming/assets/134397026/376c5665-cab5-4db0-8afd-1b24ab6fc669)
 
 
-Description
+Description: 
 This repository contains exercises and examples related to JavaScript using jQuery. The exercises cover various aspects of jQuery, including DOM manipulation, event handling, AJAX requests, animations, and more.
 
-Learning Objectives
+Learning Objectives: 
 By the end of this project, you should be able to:
 
-General
+General: 
 Explain why jQuery makes front-end programming easier.
 Select HTML elements in JavaScript and jQuery.
 Differentiate between ID, class, and tag name selectors.
